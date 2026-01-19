@@ -1,6 +1,8 @@
 # pscore
 Propensity score estimation Use pscore With (In) R Software
 
+https://www.youtube.com/watch?v=ZBK8Q4lWw4w
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
